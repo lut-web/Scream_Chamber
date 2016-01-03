@@ -6,12 +6,11 @@ into visual reactions - bubbles, floating ribbons, flying pompoms, wind and a li
 Scream Chamber will go on a four-city tour with the STEAM Carnival in 2016 to inspire a new generation of 
 young inventors through art and technology.
 
-This repository stores the Arduino code for each station:
-- [Bubble]
-- [Ribbon]
-- [Pompom]
-- [Wind]
-- [Pinwheel]
-- [Light]
+This repository stores the Arduino code:
+- [LED](https://github.com/houluting/screamchamber/blob/master/Mic2LED.ino)
+- [Relay Control](https://github.com/houluting/screamchamber/blob/master/MicRelay.ino)
+- [Servo Control Avg](https://github.com/houluting/screamchamber/blob/master/Mic2ServoAvg.ino)
+- [Servo Control Xbee](https://github.com/houluting/screamchamber/blob/master/Mic2ServoXBee.ino)
+- [Graphic Mic Output](https://github.com/houluting/screamchamber/blob/master/graphicMicOutput.pde)
 
 [More information about the project](lutinghou.com/screamchamber.html)
