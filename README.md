@@ -13,4 +13,4 @@ This repository stores the Arduino code:
 - [Servo Control Xbee](https://github.com/houluting/screamchamber/blob/master/Mic2ServoXBee.ino)
 - [Graphic Mic Output](https://github.com/houluting/screamchamber/blob/master/graphicMicOutput.pde)
 
-[More information about the project](lutinghou.com/screamchamber.html)
+[More information about the project](http://www.lutinghou.com/screamchamber.html)
